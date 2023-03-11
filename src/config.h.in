@@ -1,0 +1,6 @@
+#pragma once
+
+#define PARALLEL_PLOTTER_VER "0.1.0"
+
+#define GIT_BRANCH "@GIT_BRANCH@"
+#define GIT_COMMIT_HASH "@GIT_COMMIT_HASH@"

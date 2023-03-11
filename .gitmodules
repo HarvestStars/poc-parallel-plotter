@@ -1,0 +1,8 @@
+[submodule "contrib/cpp-optparse"]
+	path = contrib/cpp-optparse
+	url = https://github.com/ventfang/cpp-optparse.git
+
+[submodule "contrib/spdlog"]
+	path = contrib/spdlog
+	url = https://github.com/gabime/spdlog.git
+	tag = v1.4.0
