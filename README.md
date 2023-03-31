@@ -30,7 +30,7 @@ Example:
 
 # Build
 ```shell
-git clone https://github.com/lavaio/parallel-plotter.git --recursive
+git clone https://github.com/HarvestStars/poc-parallel-plotter.git --recursive
 cd parallel-plotter && mkdir build
 # unix like
 cmake ..
